@@ -12,11 +12,30 @@ Welcome to the GitHub repository for the Augmented Reality (AR) field projection
 
 ### Prerequisites
 
-Ensure your device is compatible with ARKit and supports AR. Supported devices include:
-- iPhone (newer than 6s or SE 1)
-- iPad (newer than 5th generation)
-- iPad Pro
-- iPod touch (7th generation)
-- Vision Pro
+Before you start, ensure your device is compatible with ARKit and supports augmented reality (AR). The project files are designed to be used with the following Apple devices:
 
-Download AR model file you would like to use to the device of your choice and open it from the file app!
+- **iPhone:** Model 6s or newer, or SE (1st generation) or newer
+- **iPad:** 5th generation or newer
+- **iPad Pro:** All models
+- **iPod touch:** 7th generation
+- **Vision Pro:** All models
+
+### Download and Usage Instructions
+
+Choose and download the appropriate AR model file to your device based on your setup needs:
+
+1. **High Stakes Elements Only:** For teams with existing field setups who need only the game elements.
+   - [Download Elements Only Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20Only.usdz)
+
+2. **High Stakes Elements and Field:** For teams needing both the game elements and field boundaries.
+   - [Download Elements and Field Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20and%20Field.usdz)
+
+After downloading, you can access the AR model in two ways:
+
+- **Using Files App:**
+  - Navigate to the downloaded `.usdz` file in your Files app.
+  - Tap on the file to open it directly in AR on your device.
+
+- **Using Safari:**
+  - Open Safari on your compatible device.
+  - Paste the URL of the desired AR model into the browser to view it directly in Safari without downloading.
