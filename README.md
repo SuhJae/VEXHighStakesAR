@@ -20,15 +20,23 @@ Before you start, ensure your device is compatible with ARKit and supports augme
 - **iPod touch:** 7th generation
 - **Vision Pro:** All models
 
-### Download and Usage Instructions
+## Download and Usage
 
 Choose and download the appropriate AR model file to your device based on your setup needs:
 
-1. **High Stakes Elements Only:** For teams with existing field setups who need only the game elements.
-   - [Download Elements Only Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20Only.usdz)
+### High Stakes Elements Only
+For teams with existing field setups who need only the game elements.
 
-2. **High Stakes Elements and Field:** For teams needing both the game elements and field boundaries.
-   - [Download Elements and Field Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20and%20Field.usdz)
+![Element Only Image](media/elementDemo.png)
+
+[Download Elements Only Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20Only.usdz)
+
+### High Stakes Elements and Field
+For teams needing both the game elements and field boundaries.
+
+![Element and Field Image](media/fullDemo.png)
+
+[Download Elements and Field Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20and%20Field.usdz)
 
 After downloading, you can access the AR model in two ways:
 
