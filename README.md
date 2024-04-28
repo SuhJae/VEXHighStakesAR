@@ -29,14 +29,14 @@ For teams with existing field setups who need only the game elements.
 
 ![Element Only Image](media/elementDemo.png)
 
-[Download Elements Only Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20Only.usdz)
+[View/Download Elements Only Model](https://raw.githubusercontent.com/SuhJae/VEXHighStakesAR/main/High%20Stakes%20Elemnts%20Only.usdz)
 
 ### High Stakes Elements and Field
 For teams needing both the game elements and field boundaries.
 
 ![Element and Field Image](media/fullDemo.png)
 
-[Download Elements and Field Model](https://github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20and%20Field.usdz)
+[View/Download Elements and Field Model](https://raw.github.com/SuhJae/VEXHighStakesAR/raw/main/High%20Stakes%20Elements%20and%20Field.usdz)
 
 After downloading, you can access the AR model in two ways:
 
